@@ -12,12 +12,12 @@ export const PSY_BRAND = {
     {
       key: "instagram" as const,
       label: { ar: "إنستقرام", en: "Instagram" },
-      href: "https://www.instagram.com/u5rt?stkn=MTZqeHRiZmszY2IwYw==",
+      href: "https://www.instagram.com/kpqqq?vrfl=ank3ZHQ5Z3UxbzMw",
     },
     {
       key: "whatsapp" as const,
       label: { ar: "واتساب", en: "WhatsApp" },
-      href: "https://wa.me/message/WBMO6SFCWFLQC1",
+      href: "https://wa.me/qr/N3LCEFEMCRGED1?s=r",
     },
     {
       key: "mail" as const,

@@ -22,12 +22,12 @@ export const BRAND: {
     {
       key: "instagram",
       label: { ar: "إنستقرام", en: "Instagram" },
-      href: "https://www.instagram.com/u5rt?stkn=MTZqeHRiZmszY2IwYw==",
+      href: "https://www.instagram.com/kpqqq?vrfl=ank3ZHQ5Z3UxbzMw",
     },
     {
       key: "whatsapp",
       label: { ar: "واتساب", en: "WhatsApp" },
-      href: "https://wa.me/message/WBMO6SFCWFLQC1",
+      href: "https://wa.me/qr/N3LCEFEMCRGED1?s=r",
     },
     {
       key: "mail",
